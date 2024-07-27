@@ -1,3 +1,16 @@
+html{
+    scroll-behavior: smooth;
+}
+.line-container {
+    padding: 0 70px; 
+    padding-top: 10px;
+}
+
+.line {
+    height: 1px; /* Height of the line */
+    background-color: #ffffff; 
+    width: 100%; 
+}
 body{
     background-color: #1c1b17;
     color: white;
